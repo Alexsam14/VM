@@ -1,0 +1,24 @@
+# Compiled binaries
+*.out
+*.exe
+*.elf
+
+# Object files
+*.o
+
+# Build directories
+build/
+bin/
+
+# Debug files
+*.log
+core
+core.*
+
+# Editor / OS junk
+.vscode/
+*.swp
+.DS_Store
+
+# Temporary files
+*~
